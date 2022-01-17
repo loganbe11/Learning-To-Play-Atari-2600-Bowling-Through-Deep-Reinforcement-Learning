@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+python run_lab.py reinforce_bowling_spec.json reinforce_bowling train

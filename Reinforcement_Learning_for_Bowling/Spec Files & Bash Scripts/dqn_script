@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+python run_lab.py dqn_bowling_spec.json dqn_bowling train
+
